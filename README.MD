@@ -21,9 +21,7 @@
     </a>
 
   </h3>
-<div>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ee601ca0-7625-4a42-a70a-5f07a65b7c25/deploy-status)](https://app.netlify.com/sites/quizzical-colden-69ab0b/deploys)
-</div>
+<br>
 ## Overview
 
 ![screenshot](./screenshot/screenshot1.png)
