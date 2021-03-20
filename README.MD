@@ -62,6 +62,5 @@ $ npm dev run
 
 ## Contact
 
-- Website [hussein.ninja](https://hussein.ninja)
-- GitHub [Hussein-Mourad](https://github.com/Hussein-Mourad)
-- Twitter [HusseinMourad0](https://twitter.com/HusseinMourad0)
+- Website [rathik.dev](https://rathik.dev)
+- GitHub [mdrathik](https://github.com/mdrathik)
