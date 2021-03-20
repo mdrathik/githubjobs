@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1>Github Jobs</h1>
+<h1>Github Jobs by VueJS & Tailwind CSS</h1>
 
 <div>
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
