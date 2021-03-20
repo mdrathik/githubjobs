@@ -12,15 +12,18 @@
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://devchallenges.io/solutions/hyYVGhLMD2No9yaMXI9u">
       Solution
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps">
       Challenge
     </a>
-  </h3>
 
+  </h3>
+<div>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ee601ca0-7625-4a42-a70a-5f07a65b7c25/deploy-status)](https://app.netlify.com/sites/quizzical-colden-69ab0b/deploys)
+</div>
 ## Overview
 
 ![screenshot](./screenshot/screenshot1.png)
